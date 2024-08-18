@@ -1,0 +1,105 @@
+@font-face {
+    font-family: "Poppins";
+    src: url(assets/Poppins-Regular.ttf);
+}
+
+nav {
+    background-color: #11131b;
+}
+
+nav a {
+    color: #3a4d70;
+}
+
+#presentacion {
+    font-family: "Poppins";
+    height: 100vh;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-image: url("assets/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center ;
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn {
+    background-color: #ffffff;
+    color:#11131b;
+    border: none;
+}
+
+.btn a {
+    color:#11131b;
+    font-weight: bold;
+}
+
+.btn:hover {
+    background-color: #d3e0ff;
+}
+
+.proyecto {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.text-shadow-1 {
+    text-shadow: -2px 0px 6px rgba(0, 0, 0, 1);
+}
+
+.text-shadow-2 { 
+    text-shadow: 0 .25rem .5rem rgba(0, 0, 0, .25); 
+}
+.text-shadow-3 { 
+    text-shadow: 0 .5rem 1.5rem rgba(0, 0, 0, .25); 
+}
+
+.texto-gigante{
+    font-size: 70px;
+}
+
+.rubik-pixels-regular {
+    font-family: "Rubik Pixels", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.sankofa-display-regular {
+    font-family: "Sankofa Display", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.col-lg-6 .lead {
+    color: white;
+    line-height: 1.7rem;
+    text-shadow: 0px 1px 1px black;
+}
+
+.habilidades {
+    width: 70px;
+}
+
+.ajustar-ancho {
+    height: auto;
+    width: 70%;
+}
+
+.d-flex a {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.clondegoogle a {
+    color:#11131b
+}
+
+footer {
+    background-color: #11131b;
+}
+
