@@ -6,7 +6,7 @@ Fue desarrollado con HTML, CSS y JS con el uso de el framework de UI, Bootstrap 
 
 La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye la presentación de la autora del proyecto.
 
-[Click aquí para ver el proyecto desplegado](https://joselinnn.netlify.app/)
+[Click aquí para ver el proyecto desplegado](https://daniela-villarino.netlify.app)
 
 ## Secciones de mi sitio
 ### Presentación
